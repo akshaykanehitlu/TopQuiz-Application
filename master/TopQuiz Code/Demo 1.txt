@@ -1,0 +1,8 @@
+User Name: Demo 1
+Time: 2023-03-23 14:48:15
+
+Subjects Chosen: ANIMALS, SPELLINGS, GEOGRAPHY
+
+Total Questions Attempted: 20
+Total Correct Answers: 15
+Total Score: 150

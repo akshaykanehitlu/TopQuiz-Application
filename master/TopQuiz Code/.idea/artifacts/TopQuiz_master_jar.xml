@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TopQuiz-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TopQuiz_master_jar</output-path>
+    <root id="archive" name="TopQuiz-master.jar">
+      <element id="module-output" name="TopQuiz-master" />
+    </root>
+  </artifact>
+</component>

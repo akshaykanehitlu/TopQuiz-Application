@@ -1,0 +1,19 @@
+<MC>What is the correct spelling of the word that means to take off?<O>peal:peel:pheel</O><A>peel</A>
+<MC>Which word is spelled incorrectly?<O>cornfield:forsest:waterfall</O><A>forsest</A>
+<MC>Which of these words is spelled correctly?<O>neccesary:necessary:necesary</O><A>necessary</A>
+<MC>What is the correct spelling of the word that means to make a picture of?<O>drawe:draw:dror</O><A>draw</A>
+<QI>Guess the word?<F>spellings_q1.jpeg</F><O>Pineapple:Ample:People</O><A>People</A>
+<QI>Guess the word?<F>spellings_q2.jpeg</F><O>World:Drool:Lword</O><A>World</A>
+<QI>Guess the word?<F>spellings_q3.jpeg</F><O>Ranger:Danger:Dragon</O><A>Danger</A>
+<MC>Which word is spelled incorrectly?<O>hospitul:restaurant:library</O><A>hospitul</A>
+<MC>What is the correct spelling of the word that means to make happy?<O>pleeze:please:plesse</O><A>please</A>
+<MC>Which of these words is spelled incorrectly?<O>decide:dicide:disside</O><A>dicide</A>
+<MC>What is the correct spelling of the word that means to continue?<O>proced:proceed:proseed</O><A>proceed</A>
+<MC>What is the correct spelling of the word that means to hold?<O>carrey:carry:carrie</O><A>carry</A>
+<MC>Which of these words is spelled correctly?<O>license:lisence:lisense</O><A>license</A>
+<MC>What is the correct spelling of the word that means to express gratitude?<O>thank:thanck:thanq</O><A>thank</A>
+<MC>What is the correct spelling of the word that means to look at?<O>see:se:cee</O><A>see</A>
+<MC>What is the correct spelling of the word that means to make something known?<O>announce:anounce:anouans</O><A>announce</A>
+<MC>Which word is spelled incorrectly?<O>commitment:committment:comitment</O><A>committment</A>
+<MC>What is the correct spelling of the word that means to make less?<O>diminish:dimminish:diminsh</O><A>diminish</A>
+<MC>Which word is spelled incorrectly?<O>Refrigerator:Recieve:Calendar</O><A>Recieve</A>

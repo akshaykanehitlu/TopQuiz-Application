@@ -1,0 +1,18 @@
+<MC>What is the largest continent in the world?<O>Asia:North America:Europe</O><A>Asia</A>
+<MC>Which ocean is the largest in the world?<O>Pacific Ocean:Indian Ocean:Atlantic Ocean</O><A>Pacific Ocean</A>
+<QI>Which continent is highlighted here?<F>geography_q1.png</F><O>North America:Australia:Asia</O><A>Asia</A>
+<QI>Which continent is highlighted here?<F>geography_q2.jpeg</F><O>North America:Australia:South America</O><A>North America</A>
+<QI>Which continent is highlighted here?<F>geography_q3.jpeg</F><O>Qutub Minar:Eiffel Tower:Taj Mahal</O><A>Taj Mahal</A>
+<QI>Which place from the 7 Wonders is this?<F>geography_q4.jpeg</F><O>Machu Pichu:Petra:Taj Mahal</O><A>Machu Pichu</A>
+<MC>What is the capital city of Australia?<O>Sydney:Melbourne:Canberra</O><A>Canberra</A>
+<MC>Which country is known as the "Land of the Rising Sun"?<O>China:Japan:India</O><A>Japan</A>
+<MC>What is the tallest mountain in the world?<O>Mount Everest:Mount Kilimanjaro:Mount Fuji</O><A>Mount Everest</A>
+<MC>Which country is famous for the Great Pyramids?<O>India:Greece:Egypt</O><A>Egypt</A>
+<MC>What is the capital city of Canada?<O>Vancouver:Toronto:Ottawa</O><A>Ottawa</A>
+<MC>Which continent is home to the Amazon Rainforest?<O>South America:North America:Africa</O><A>South America</A>
+<MC>Which country is famous for the Eiffel Tower?<O>Italy:Spain:France</O><A>France</A>
+<MC>What is the largest country in the world by land area?<O>China:Russia:India</O><A>Russia</A>
+<MC>What is the smallest continent in the world?<O>Europe:Australia:North America</O><A>Australia</A>
+<MC>What is the largest desert in the world?<O>Sahara Desert:Gobi Desert:Atacama Desert</O><A>Sahara Desert</A>
+<MC>What is the capital city of Japan?<O>Shanghai:Beijing:Tokyo:Seoul</O><A>Tokyo</A>
+<MC>Which country is famous for the Statue of Liberty?<O>Canada:USA:Mexico</O><A>USA</A>

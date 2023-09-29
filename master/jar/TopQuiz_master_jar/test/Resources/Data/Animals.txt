@@ -1,0 +1,20 @@
+<MC>What is the fastest land animal?<O>Lion:Cheetah:Tiger</O><A>Cheetah</A>
+<MC>What type of animal is a killer whale?<O>Whale:Dolphin:Shark</O><A>Whale</A>
+<MC>What is the largest mammal on Earth?<O>Elephant:Blue whale:Gorilla</O><A>Blue whale</A>
+<QI>Which animal is this?<F>animals_q1.jpeg</F><O>Cat:Rat:Fox</O><A>Fox</A>
+<QI>Which animal is this?<F>animals_q2.jpeg</F><O>Rhino:Cheetah:Lion</O><A>Cheetah</A>
+<QI>Which animal is this?<F>animals_q3.png</F><O>Tiger:Lion:Leopard</O><A>Lion</A>
+<QI>Which animal is this?<F>animals_q4.jpeg</F><O>Giraffe:Hippopotamus:Elephant</O><A>Elephant</A>
+<QI>Which fish is this?<F>animals_q5.jpeg</F><O>Dolphin:Shark:Jelly Fish</O><A>Shark</A>
+<QI>Which bird is this?<F>animals_q6.jpeg</F><O>Peacock:Pigeon:Eagle</O><A>Peacock</A>
+<MC>What is a group of lions called?<O>Herd:Pack:Pride</O><A>Pride</A>
+<MC>Which animal can change its skin color to blend in with its surroundings?<O>Chameleon:Snake:Lizard</O><A>Chameleon</A>
+<MC>Which animal is known for its black and white stripes?<O>Zebra:Giraffe:Horse</O><A>Zebra</A>
+<MC>What is the only bird that can fly backward?<O>Pigeon:Hummingbird:Falcon</O><A>Hummingbird</A>
+<MC>What type of animal is a penguin?<O>Bird:Mammal:Reptile</O><A>Bird</A>
+<MC>Which animal is known for its humps on its back?<O>Camel:Horse:Donkey</O><A>Camel</A>
+<MC>What is the only mammal that can fly?<O>Bat:Squirrel:Rat</O><A>Bat</A>
+<MC>Which animal has the longest neck?<O>Giraffe:Elephant:Rhino</O><A>Giraffe</A>
+<MC>What type of animal is a shark?<O>Fish:Mammal:Reptile</O><A>Fish</A>
+<MC>Which animal is the symbol of peace?<O>Dove:Peacock:Eagle</O><A>Dove</A>
+<MC>What type of animal is a tortoise?<O>Reptile:Mammal:Insect</O><A>Reptile</A>
